@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Orbikt-care-A</title>
+  <rect width="512" height="512" rx="112" fill="#075e54"/>
+  <circle cx="192" cy="256" r="104" fill="none" stroke="#ffffff" stroke-width="52"/>
+  <path d="M286 360L362 152H410L486 360H432L416 310H356L340 360ZM370 264H402L386 214Z" fill="#f2c94c"/>
+  <circle cx="256" cy="256" r="20" fill="#f2c94c"/>
+</svg>
