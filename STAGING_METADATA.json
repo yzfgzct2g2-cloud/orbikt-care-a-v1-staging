@@ -1,8 +1,8 @@
 {
   "artifact_type": "synthetic-only-static-pwa-staging",
   "staging_path": "/orbikt-care-a-v1-staging/",
-  "source_runtime_release": "eae85662175a49b543bcbd52e02c8820505c104a",
-  "staging_adapter_commit": "3901a07e7d8b503e1b52c310d479b4be8a4f8ced",
+  "source_runtime_release": "1024c37ffe46e8d8557039afe3a0c1161312e3af",
+  "staging_adapter_commit": "b37ee7103b00f033e5a1164a4a5ca583b8e2fbce",
   "source_maps": "absent",
   "runtime_network_policy": "same-origin static shell requests only; official links require explicit user action",
   "data_boundary": "synthetic-only; no case data, backups, passphrases, screenshots, credentials, analytics, or backend",
@@ -19,15 +19,15 @@
   ],
   "artifacts": {
     ".nojekyll": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "README.md": "sha256:19dad2ce6d6cbc1b7ab3f93624b76d64d606fb525af5567f1288e8258128eeac",
-    "assets/index-C2mIP5U6.css": "sha256:9f548c92a3f4e1c6b2dfd8127d25f4ef029815fd5c9e233d289534d35c316b00",
-    "assets/index-DwQnnBjb.js": "sha256:4151906bb8b898e06e015f4f8992527f5f434b55121d85fec5b5de7988fc5d34",
+    "README.md": "sha256:c4b1868e0986fb095157d212e83af28ad0835185344f5a87924197d0c4360ec5",
+    "assets/index-DG4qdoR8.css": "sha256:3086e376c8c7807dfb2c6a0c0c9fabf2efa90c6ac6c3ed5014685d2e01c64fff",
+    "assets/index-fpZW0k52.js": "sha256:a1d388cc5f366fe68a5bca6b0cf4d944ec9eaf8277a38b5782feb9c1f61fcc92",
     "icons/icon-192.png": "sha256:d0c0d9320bfd2a46764dd4e6a68d31373e47fd7f17e259de89fa9d37025d7db5",
     "icons/icon-512.png": "sha256:0454c25f1f44b9a6b3c70a0f87622bfe667a14eb489a6675015c3e13a8bcf86d",
-    "icons/orbikt-care-a-icon.svg": "sha256:819aeec7ea258d6127915041bfc0299ab63f0dd13140ed26cef097ea046acd27",
-    "index.html": "sha256:ab389c79b1c5adf9bdbdff1652f711049b79949c324c0721ecb24b8f6341ce55",
+    "icons/orbikt-care-a-icon.svg": "sha256:4c7f9f8727c2c59fc989dd78f4326f7550acfd9505bb648c92625a71929dc7df",
+    "index.html": "sha256:8019c811352afa7cd007c8fbce8a7bee2c65bd0504297b44968c4abc553fc959",
     "manifest.webmanifest": "sha256:dfb5b1c10471d088f7e9b4340837f53fc27033a58d4a1e2b579da836aa9397f5",
-    "shell-assets.json": "sha256:75c27d1ce5f7a345baea516dab1dddc17f607c6cac560cd00a09d3fc1976bcf4",
+    "shell-assets.json": "sha256:eff5c823774c6661ac0b0295787c2d0b3bfc5878e1a93d4d4e3c3d19ac990796",
     "sw.js": "sha256:ecafb8b2a9e3f6438f7b03b1dc8f012d78ea171959d416e8e4995a8ff4e04029"
   }
 }
