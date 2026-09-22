@@ -1,27 +1,26 @@
 {
   "artifact_type": "synthetic-only-static-pwa-staging",
   "staging_path": "/orbikt-care-a-v1-staging/",
-  "source_runtime_release": "2b71de0e85111315c6f9e3cc6d513a4180ec8e36",
-  "staging_source_sha": "aacb19e1a535c00185159fcc608f20aa035c2a31",
-  "staging_adapter_commit": "aacb19e1a535c00185159fcc608f20aa035c2a31",
+  "source_runtime_release": "b9361575b2da20935e25585fdc0098861c67e492",
+  "staging_source_sha": "904e706c209d825ee6058c66e1a0498019bf9153",
   "verified_adapter_origin": "b37ee7103b00f033e5a1164a4a5ca583b8e2fbce",
-  "artifact_identity": "sha256:b05872df86d0e558ba6ec7e11c6d41005870ae856e7c81aa9f672c931d2efdad",
-  "artifact_identity_algorithm": "SHA256 of sorted path + space + sha256:digest lines joined with LF, excluding STAGING_METADATA.json to avoid self-reference; Git commit independently recorded in private verification report",
+  "artifact_identity": "sha256:516cfb45afd1be1a57751bcc7b08c081bd9ec83c3ea0ca30580a4c2d23305978",
+  "artifact_identity_algorithm": "SHA256 of sorted path + space + sha256:digest lines joined with LF, excluding STAGING_METADATA.json; Git commit independently recorded in private verification report",
   "source_maps": "absent",
   "runtime_network_policy": "same-origin static shell requests only; official links require explicit user action",
   "data_boundary": "synthetic-only; no real case data, credentials, backups, screenshots, analytics or backend",
   "artifacts": {
     ".nojekyll": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "assets/index-Cd8tx6Se.css": "sha256:82dc34ac3902c4491d7996666b5c0abff44dc201734ae6426ed0366f7ee067c8",
-    "assets/index-DMeyFdMO.js": "sha256:635ec00cf618dc6525cd273aa6dd5157dfa4612c278c3032c937806ae76da489",
+    "README.md": "sha256:cd8e39f1b3fcc732ee19d11ad67b23d9a9dd4a432949e73ef2a48ae5e7ba3db6",
+    "assets/index-CcH93aVA.css": "sha256:05d18079204b6f966ca4da3d364ba1016aae7af84e2b204c29a6d8c6eec5deba",
+    "assets/index-y5r7Ag7r.js": "sha256:a71dd8993c1e6521b9a33754d6ab5d390e1dab9298aa59c8341a257010b2203d",
     "icons/icon-192.png": "sha256:d0c0d9320bfd2a46764dd4e6a68d31373e47fd7f17e259de89fa9d37025d7db5",
     "icons/icon-512.png": "sha256:0454c25f1f44b9a6b3c70a0f87622bfe667a14eb489a6675015c3e13a8bcf86d",
     "icons/orbikt-care-a-icon.svg": "sha256:4c7f9f8727c2c59fc989dd78f4326f7550acfd9505bb648c92625a71929dc7df",
-    "index.html": "sha256:56fe28d3f5b7a80656ef5ddfa1bd864d355844464b13f8c3530846c45773333d",
+    "index.html": "sha256:817d549d1798ba49229920bfb50814a0e59591b338e6ca26b6c6b15bdeb21859",
     "manifest.webmanifest": "sha256:dfb5b1c10471d088f7e9b4340837f53fc27033a58d4a1e2b579da836aa9397f5",
-    "README.md": "sha256:f6a4c81a134cc5eb8d0059bd2aa7866240a421bd6751947b7f1828eb2046c387",
-    "shell-assets.json": "sha256:666b4cdf8f15c26db03c1387478c19276fd5ab2b3b00a7fef0886042baf55538",
+    "shell-assets.json": "sha256:b2e183d96ea5655713a979b7dd755278f2b946ed8b7926f3738bbb3a1fe640fd",
     "sw.js": "sha256:ecafb8b2a9e3f6438f7b03b1dc8f012d78ea171959d416e8e4995a8ff4e04029"
   },
-  "packaging": "UTF-8 textual artifacts normalized from Windows CRLF/CRCRLF to LF; no content or semantic change"
+  "packaging": "UTF-8 text normalized from CRLF/CRCRLF to LF; no semantic change"
 }

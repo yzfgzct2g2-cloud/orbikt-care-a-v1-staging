@@ -2,7 +2,7 @@
 
 Compiled static PWA assets for synthetic-only QA. No source checkout, source maps, credentials, real case data, backups, screenshots, analytics or backend configuration.
 
-Canonical runtime release: 2b71de0e85111315c6f9e3cc6d513a4180ec8e36
-Staging build source: aacb19e1a535c00185159fcc608f20aa035c2a31
+Canonical runtime release: b9361575b2da20935e25585fdc0098861c67e492
+Staging build source: 904e706c209d825ee6058c66e1a0498019bf9153
 
-Use the GitHub Pages QA URL with a disposable synthetic browser/device profile. This is not a production deployment.
+Use the existing GitHub Pages QA URL with synthetic data only. This is not a production deployment.
